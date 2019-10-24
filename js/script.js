@@ -1,4 +1,5 @@
 
+
 // Fonction appelée lors du click du bouton
 function start() {
   // Création de l'objet apiWeather
